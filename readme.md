@@ -1,6 +1,6 @@
 # Dog API Search 
 
-1. Visit the website
+1. Visit the website(http://dog.jforbes.site)
 2. To the top left you should see a dropdown option, you can either choose
 Random or Breed
 3. If you choose "Breed", type in the searchbar which breed of dog you would
