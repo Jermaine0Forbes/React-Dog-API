@@ -1,0 +1,12 @@
+export const GET_RANDOM = "GET_RANDOM";
+export const GET_RANDOM_SUCCESS = "GET_RANDOM_SUCCESS";
+export const GET_BREED = "GET_BREED";
+export const GET_BREED_SUCCESS = "GET_BREED_SUCCESS";
+export const GET_BREED_FAILED = "GET_BREED_FAILED";
+export const ADD_DOG = "ADD_DOG";
+export const ADD_DOG_FAILED = "ADD_DOG_FAILED";
+export const CLEAR_DOGS = "CLEAR_DOGS";
+export const SAVE_BREED = "SAVE_BREED";
+export const IS_LOADING = "IS_LOADING";
+export const UPDATE_COLLECTION = "UPDATE_COLLECTION";
+export const  RESET_ERROR = "RESET_ERROR";
